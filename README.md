@@ -17,9 +17,7 @@
 ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 
 ## GitHub Stats ⚡
-
-![Abner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerdiniz&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerDiniz90&show_icons=true&theme=radical)](https://github.com/AbnerDiniz90)
 
 ## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerdiniz&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerDiniz90&layout=compact&theme=radical)](https://github.com/AbnerDiniz90)
