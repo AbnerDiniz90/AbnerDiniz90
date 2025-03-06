@@ -1,6 +1,6 @@
 # Abner Diniz
 
-## Hi there, I'm Abner! ✨
+## Hi there, I'm Abner! 
 
 - Computer Engineer Student at the Federal University of Sao Paulo - UNIFESP
 - Passion for data analysis, visualization and machine learning.
