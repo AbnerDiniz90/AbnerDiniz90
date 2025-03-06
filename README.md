@@ -1,6 +1,11 @@
 # Abner Diniz
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg) ![MySQL](https://img.shields.io/badge/MySQL-5.7-orange.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-green.svg) ![Numpy](https://img.shields.io/badge/Numpy-1.21.2-purple.svg) ![Matplot](https://img.shields.io/badge/Matplot-3.4.3-red.svg)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
+![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 
 ## Hi there, I'm Abner! ✨
 
@@ -10,7 +15,12 @@
 
 ## Languages & Tools 🖥️
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg) ![MySQL](https://img.shields.io/badge/MySQL-5.7-orange.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-green.svg) ![Numpy](https://img.shields.io/badge/Numpy-1.21.2-purple.svg) ![Matplot](https://img.shields.io/badge/Matplot-3.4.3-red.svg)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
+![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 
 ## GitHub Stats ⚡
 
