@@ -17,8 +17,12 @@
 ![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
 ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 
+<!--START_SECTION:activity-->
+
 ## GitHub Stats ⚡
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerDiniz90&show_icons=true&theme=radical)](https://github.com/AbnerDiniz90)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerDiniz90&layout=compact&theme=radical)](https://github.com/AbnerDiniz90)
+
+<!--END_SECTION:activity-->
