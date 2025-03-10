@@ -1,7 +1,5 @@
 # Abner Diniz
 
-## Hi there, I'm Abner! 
-
 - Computer Engineer Student at the Federal University of Sao Paulo - UNIFESP
 - Passion for data analysis, visualization and machine learning.
 - Skilled in Python, MySQL, JavaScript, and data manipulation libraries like Pandas and Numpy.
