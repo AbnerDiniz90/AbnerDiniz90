@@ -2,7 +2,7 @@
 
 - Computer Engineer Student at the Federal University of Sao Paulo - UNIFESP
 - Passion for data analysis, visualization and machine learning.
-- Skilled in Python, MySQL, JavaScript, and data manipulation libraries like Pandas and Numpy.
+- Skilled in Python, C, MySQL, JavaScript and data manipulation libraries like Pandas and Numpy.
 - Enthusiastic about creating insightful data visualizations using Matplotlib.
 
 ## Languages & Tools 🖥️
