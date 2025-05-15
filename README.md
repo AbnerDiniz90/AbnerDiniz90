@@ -15,7 +15,6 @@
 ![C Badge](https://img.shields.io/badge/C-2A46AD?style=for-the-badge&logo=C&logoColor=FFFFFF)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
-![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 ![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-29ABE2?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
