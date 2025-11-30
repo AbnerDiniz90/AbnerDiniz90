@@ -21,7 +21,7 @@
 
 <!--START_SECTION:activity-->
 
-## GitHub Stats ⚡
+1. 💪 Opened PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerDiniz90&show_icons=true&theme=radical)](https://github.com/AbnerDiniz90)
 
 ## Most Used Languages
