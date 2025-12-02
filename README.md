@@ -21,8 +21,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerDiniz90&show_icons=true&theme=radical)](https://github.com/AbnerDiniz90)
+1. ❌ Merged PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
+2. 💪 Opened PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerDiniz90&layout=compact&theme=radical)](https://github.com/AbnerDiniz90)
