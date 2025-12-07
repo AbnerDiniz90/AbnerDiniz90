@@ -21,10 +21,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#21](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
-2. ❌ Merged PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
+1. ❌ Merged PR [#21](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
+2. 💪 Opened PR [#21](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
 
-3. 💪 Opened PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerDiniz90&layout=compact&theme=radical)](https://github.com/AbnerDiniz90)
+3. ❌ Merged PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
+4. 💪 Opened PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
 
 <!--END_SECTION:activity-->
