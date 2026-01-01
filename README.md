@@ -21,8 +21,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#21](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
-2. 💪 Opened PR [#21](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
+1. 🎉 Merged PR [#21](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware/pull/21) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
+2. 💪 Opened PR [#21](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware/pull/21) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
 
 3. ❌ Merged PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
 4. 💪 Opened PR [#16](undefined) in [FelipeSilvestre04/EngenhariaDeSoftware](https://github.com/FelipeSilvestre04/EngenhariaDeSoftware)
